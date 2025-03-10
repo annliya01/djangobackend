@@ -5,3 +5,6 @@ django-filter
 django-cors-headers
 djangorestframework-pagination
 python-decouple
+Gunicorn
+boto3
+whitenoise
